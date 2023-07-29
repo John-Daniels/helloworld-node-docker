@@ -1,6 +1,6 @@
-#HelloWorld Node + Docker
+# HelloWorld Node + Docker
 
-## This repo features how you can simplify deployment process of your Node Apps with docker
+### This repo features how you can simplify deployment process of your Node Apps with docker
 
 ## Setup
 
